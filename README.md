@@ -1,5 +1,9 @@
 # Tabela
 
+Para o projeto cadastro de pessoas, foi utilizado Angular Material e elementos nativos do Angular.
+
+O projeto consome uma API rest local, via JSON Server, ao iniciar a aplicação inicie tambem o JSON Server: `ngx json-server --watch db.json`.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
 ## Development server
